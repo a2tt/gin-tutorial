@@ -1,4 +1,4 @@
-module Go-Web
+module github.com/a2tt/go-web
 
 go 1.17
 
